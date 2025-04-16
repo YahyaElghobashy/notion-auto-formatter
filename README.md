@@ -1,4 +1,4 @@
-# Notion Copy&Paste
+# NotionFlex
 
 <p align="center">
   <img src="Logo.jpg" alt="Notion Copy&Paste Logo" width="200"/>
@@ -27,7 +27,7 @@ A powerful tool for creating perfectly formatted Notion pages with a visual edit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/notion-copy-paste.git
+git clone https://github.com/yahyaelghobashy/notion-auto-formatter.git
 cd notion-copy-paste
 ```
 
@@ -75,5 +75,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions, please:
 1. Check our [Documentation](docs/)
-2. Search existing [Issues](https://github.com/yahyaelghobashy/notion-copy-paste/issues)
+2. Search existing [Issues](https://github.com/yahyaelghobashy/notion-auto-formatter/issues)
 3. Create a new issue if needed 
